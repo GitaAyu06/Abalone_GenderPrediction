@@ -3,4 +3,4 @@ Predict Abalone's gender based on data of it's pysical characteristics and use N
 
 Flowchart
 
-![Flowchart](Flowchart.png)
+![Flowchart](Flowchart.jpg)
